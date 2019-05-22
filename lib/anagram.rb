@@ -19,6 +19,7 @@ class Anagram
         matches << testword
       end
     end
+    matches
   end
       
       
